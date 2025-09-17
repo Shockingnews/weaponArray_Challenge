@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\w0526843\\weaponArray_Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54523D0-E4EB-45A5-9A54-7AD100CBA989}|weaponArray_Challenge\\weaponArray_Challenge.csproj|c:\\gage\u0027s visual studio code\\weaponarray_challenge.sln||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "weaponArray_Challenge.sln",
+              "DocumentMoniker": "C:\\Gage\u0027s visual studio code\\weaponArray_Challenge.sln",
+              "RelativeDocumentMoniker": "..\\..\\..\\Gage\u0027s visual studio code\\weaponArray_Challenge.sln",
+              "ToolTip": "C:\\Gage\u0027s visual studio code\\weaponArray_Challenge.sln",
+              "RelativeToolTip": "..\\..\\..\\Gage\u0027s visual studio code\\weaponArray_Challenge.sln",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2025-09-17T17:35:55.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

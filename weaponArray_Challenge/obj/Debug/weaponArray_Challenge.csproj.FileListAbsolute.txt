@@ -1,0 +1,8 @@
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\obj\Debug\weaponArray_Challenge.csproj.AssemblyReference.cache
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\obj\Debug\weaponArray_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\bin\Debug\weaponArray_Challenge.exe.config
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\bin\Debug\weaponArray_Challenge.exe
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\bin\Debug\weaponArray_Challenge.pdb
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\obj\Debug\weaponArray_Challenge.exe
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\obj\Debug\weaponArray_Challenge.pdb
+C:\Users\w0526843\weaponArray_Challenge\weaponArray_Challenge\obj\Debug\weaponArray_Challenge.exe.config
