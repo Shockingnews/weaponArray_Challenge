@@ -18,7 +18,7 @@ namespace weaponArray_Challenge
         {
             Console.WriteLine(Ammo[0]);
 
-            Console.WriteLine(fireWeapon(3));
+            Console.WriteLine(FireWeapon(3));
 
             if (Chamber[0] == 0)
             {
@@ -27,11 +27,11 @@ namespace weaponArray_Challenge
             }
         }
 
-        static void fireWeapon(int Chamber)
+        static int FireWeapon(int Chamber)
         {
             Chamber = Chamber - 1;
 
-            
+            return Chamber;
         }
         
     }
